@@ -1,35 +1,21 @@
-# vue_vite
+# Vue 直播班作業
 
-This template should help get you started developing with Vue 3 in Vite.
+## Demo
+* [頁面](https://iamamberhh.github.io/demo_vite/#/)
 
-## Recommended IDE Setup
+## 學習技能
+* Vite 框架運用
+* router 運用
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## 實作內容
+* 前台
+    * 產品列表渲染
+    * 購物車列表渲染
+    * 購物車品項刪除、修改
+    * 訂單送出及驗證
+    * loading畫面
+* 後台
+    * 產品列表渲染
+    * 訂單列表渲染
+    * 登入失敗返回
+    
